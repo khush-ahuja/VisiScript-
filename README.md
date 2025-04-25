@@ -19,13 +19,7 @@ This project is VisiScript Application that generates descriptive captions for u
 
 - **User-friendly Interface**: Built using the Streamlit framework, the application provides clear instructions, intuitive image upload options, and visually appealing visualizations for a seamless and accessible user experience.
 
-## Try it online
 
-Try theVisiScript Application online by visiting the deployed Streamlit app:
-
-[Live Demo](https://image-to-audio.streamlit.app)
-
-Note: In case the application runs out of memory during usage, you should reboot the app to free up resources and ensure optimal performance.
 
 ## Installation
 
